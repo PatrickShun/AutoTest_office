@@ -1,0 +1,11 @@
+20220823153911	TestLoginPage	test_Correct_Username_Correct_Password	Pass	NeedtoverifyyouridentityForyouraccountsecurity,pleaseverifyyouridentity135****6386SMSverificationcodeGetVerificationCode = NeedtoverifyyouridentityForyouraccountsecurity,pleaseverifyyouridentity135****6386SMSverificationcodeGetVerificationCode
+20220823153922	TestLoginPage	test_Correct_Username_Null_Password	Pass	请输入密码 = 请输入密码
+20220823153933	TestLoginPage	test_Correct_Username_Wrong_Password	Pass	用户名或密码错误 = 用户名或密码错误
+20220823153944	TestLoginPage	test_Null_Username_Correct_Password	Pass	请输入账号 = 请输入账号
+20220823153954	TestLoginPage	test_Null_Username_Null_Password	Pass	请输入账号请输入密码 = 请输入账号请输入密码
+2022-08-23 15:41:50	TestLoginPage	test_Correct_Username_Correct_Password	Fail	NeedtoverifyyouridentityForyouraccountsecurity,pleaseverifyyouridentity135****6386SMSverificationcodeGetVerificationCode != 密码错误次数到达上线，请过一段时间再试
+2022-08-23 17:00:44	TestLoginPage	test_Correct_Username_Correct_Password	Pass	NeedtoverifyyouridentityForyouraccountsecurity,pleaseverifyyouridentity135****6386SMSverificationcodeGetVerificationCode = NeedtoverifyyouridentityForyouraccountsecurity,pleaseverifyyouridentity135****6386SMSverificationcodeGetVerificationCode
+2022-08-23 17:00:55	TestLoginPage	test_Correct_Username_Null_Password	Pass	请输入密码 = 请输入密码
+2022-08-23 17:01:07	TestLoginPage	test_Correct_Username_Wrong_Password	Pass	用户名或密码错误 = 用户名或密码错误
+2022-08-23 17:01:17	TestLoginPage	test_Null_Username_Correct_Password	Pass	请输入账号 = 请输入账号
+2022-08-23 17:01:28	TestLoginPage	test_Null_Username_Null_Password	Pass	请输入账号请输入密码 = 请输入账号请输入密码
