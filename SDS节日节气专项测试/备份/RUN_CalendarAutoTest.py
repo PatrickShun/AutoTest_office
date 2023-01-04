@@ -11,6 +11,9 @@ appkey=CE435BCB81636B363DBDCB2F41090605
 version=40000&address=中国,北京市,北京市,朝阳区,北京市朝阳区惠新东街,14号,39.979515,116.424273
 output=lite
 """
+
+# B70618D8E8132A32D4BCD6D68EFD08E2
+
 class CalendarAutoTest():
     def __init__(self):
 
@@ -18,11 +21,11 @@ class CalendarAutoTest():
         self.CalendarResult = []
 
 
-
     def postGetUrl(self,iquery):
         data = {
                 "query": iquery,
-                "appkey": "CE435BCB81636B363DBDCB2F41090605", # 保时捷普通话
+                # "appkey": "CE435BCB81636B363DBDCB2F41090605", # 保时捷普通话
+                "appkey": "B70618D8E8132A32D4BCD6D68EFD08E2", # Audi普通话
                 "version": "40000",
                 "address": "中国,北京市,北京市,朝阳区,北京市朝阳区惠新东街,14号,39.979515,116.424273",
                 "output": "lite",
